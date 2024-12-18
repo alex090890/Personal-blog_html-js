@@ -1,0 +1,2 @@
+const intro = document.querySelector('.intro');
+intro.innerHTML = 'Welcome to my personal blog where I share my thoughts and experiences on web development and programming, as wekk as learning languages and many more!';
